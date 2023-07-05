@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/facerecognitionapp/static/css/main.d1f4b997.css",
+    "main.js": "/facerecognitionapp/static/js/main.71bf19d5.js",
+    "static/js/787.f34831bd.chunk.js": "/facerecognitionapp/static/js/787.f34831bd.chunk.js",
+    "index.html": "/facerecognitionapp/index.html",
+    "main.d1f4b997.css.map": "/facerecognitionapp/static/css/main.d1f4b997.css.map",
+    "main.71bf19d5.js.map": "/facerecognitionapp/static/js/main.71bf19d5.js.map",
+    "787.f34831bd.chunk.js.map": "/facerecognitionapp/static/js/787.f34831bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f4b997.css",
+    "static/js/main.71bf19d5.js"
+  ]
+}
